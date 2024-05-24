@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav{
+    height: 60px;
+}
+.logo{
+    height: 65px;
+}
+.btn{
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+    font-size: large;
+    margin-left: 100px;
+}
+.Search{
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    background-color: rgb(43, 43, 45);
+    color: white;
+    justify-content: end;
+    margin-left: 230px;
+    padding: 10px;
+}
+.Search-bar{
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 10px;
+    background-color: rgb(43, 43, 45);
+    color: white;
+    padding: 10PX;
+}
+.sign{
+    height: 35px;
+    padding-left: 100px;
+    height: 50px;
+    /* padding-bottom: 20px; */
+}
+.backg{
+    background-image: url("./MCIM02514780_1920x751_recipe_Chai_Spice_Shortbread.webp");
+    height: 100vh;
+    width: 100%; 
+    background-size: cover;
+    /* opacity: 100%; */
+    background-repeat: no-repeat;
+}
+.list{
+    padding-top: 150px;
+    padding-left: 90px;
+    color: white;
+}
+h2{
+    padding-left: 30px;
+}
+.font{
+    display: flex;
+    justify-content: center;
+}
+.in{
+    padding-left: 100px;
+}
+.making{
+    font-size: 20px;
+    
+    
+}
+.heading{
+    padding-left: 150px; 
+    
+    
+}
+.op{
+    display: flex;
+    justify-content: center;
+}
+.make{
+    display: inline-flex;
+}
+.new{
+    padding-left: 150px; 
+}

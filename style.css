@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    height: 60px;
+    font-weight: bolder;
+    color: aqua;
+}
+.Search{
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    background-color: rgb(43, 43, 45);
+    color: white;
+    justify-content: end;
+    margin-left: 230px;
+    padding: 10px;
+    
+}
+.Search-bar{
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: rgb(43, 43, 45);
+    color: white;
+    padding: 10PX;
+}
+.btn{
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: 20px;
+    display: inline-block;
+    /* padding: 40px; */
+    margin-left: 100px;
+    color: rgb(255, 255, 255);
+}
+.sing{
+    height: 40px;
+    margin-left: 16px;
+    margin-bottom: 17px;
+}
+hr{
+    border: 1px solid rgb(255, 255, 255);
+}
+.backg{
+    height: 100vh;
+    background-image: url("./publicpic/harsh-fotor-2024051719455.jpg")  ;
+    opacity: 100%;
+}
+.back{
+    height: 900px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    display:flex;
+    flex-direction: column;    
+    align-items: center;
+    /* text-align: center; */
+    
+    padding-bottom: 200px;
+}
+.cake{
+    
+    display: flex;
+}
+.text{
+    margin: 5rem;
+    color: black;
+}
+/* .btn:hover{
+    transform: matrix(0.5);
+    transition: all;
+} */
+.new{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+.Cuisines{
+    display: flex;
+}
+.new1{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+.Quick{
+    display: flex;
+}
+.text1{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
